@@ -1,0 +1,3 @@
+# Minimal runtime for the verified FR3 migration entry points.
+mujoco==3.16.0
+numpy==2.5.4

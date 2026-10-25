@@ -1,0 +1,24 @@
+{
+  "schema": "paired_action_replay_video_v1",
+  "seed": 3001,
+  "selection": "illustrative evaluated seed; full aggregate results use all declared evaluation seeds",
+  "evaluation_plan_sha256": "fceb9f7a844ac918a003a3a51cad944f4a2250589538218c2d476dbd9ff0c88b",
+  "evaluation_summary_sha256": "7a25ed30897ed8b6319ac379d6da3a1ceb35a149980781af7a09a59da3baa22c",
+  "fps": 25,
+  "frames": 201,
+  "simulated_duration_s": 8.0,
+  "encoded_duration_s": 8.04,
+  "frame_size": [
+    1280,
+    512
+  ],
+  "rendering_uses_separate_data": true,
+  "replay_max_observation_abs_error": {
+    "bc": 0.0,
+    "aggregated": 0.0
+  },
+  "outcomes_match_recorded_evaluation": true,
+  "video_sha256": "cb9122e98a9f5d02a088f40b3b4d8e1b73df27f6a09b1f9b522cb19b08b16cf0",
+  "exporter_sha256": "41054006e173218099201a88ad6887aa287687d723afa34ec9379699771a1f76",
+  "ffmpeg": "7.1-essentials_build-www.gyan.dev"
+}

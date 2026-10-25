@@ -1,0 +1,6 @@
+# CPU BC training and rollout dependencies; install in the separate .venv-bc.
+# +cpu pins the CPU wheel; remaining dependencies can resolve from PyPI.
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.2.6
+torch==2.10.0+cpu
+mujoco==3.16.0

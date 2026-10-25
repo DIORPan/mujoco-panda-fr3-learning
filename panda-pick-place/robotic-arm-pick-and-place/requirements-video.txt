@@ -1,0 +1,3 @@
+# Optional replay/export dependencies; training requirements stay separate.
+Pillow==13.0.0
+imageio-ffmpeg==0.6.0

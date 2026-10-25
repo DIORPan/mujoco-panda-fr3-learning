@@ -1,0 +1,8 @@
+# Preserve recorded source hashes and binary assets across checkouts.
+* -text
+*.obj binary
+*.stl binary
+*.pt binary
+*.mp4 binary
+*.png binary
+*.gif binary

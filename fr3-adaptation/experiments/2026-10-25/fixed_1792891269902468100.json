@@ -1,0 +1,54 @@
+{
+  "scene": "fixed",
+  "order": [
+    "green",
+    "red",
+    "blue"
+  ],
+  "gravity_m_s2": [
+    0.0,
+    0.0,
+    -9.81
+  ],
+  "criterion": {
+    "xy_error_m_lt": 0.05,
+    "center_z_m_gt": 0.18
+  },
+  "sampling": "after_each_pick_and_place",
+  "completed": true,
+  "results": [
+    {
+      "color": "green",
+      "success": true,
+      "cube_position_m": [
+        0.6499077090105633,
+        -0.00010017830736115316,
+        0.21989224457978365
+      ],
+      "xy_error_mm": 0.13621057226573824,
+      "cube_center_z_m": 0.21989224457978365
+    },
+    {
+      "color": "red",
+      "success": true,
+      "cube_position_m": [
+        0.6496780089458877,
+        -0.19965415955453167,
+        0.21989224457978368
+      ],
+      "xy_error_mm": 0.47252920825079403,
+      "cube_center_z_m": 0.21989224457978368
+    },
+    {
+      "color": "blue",
+      "success": true,
+      "cube_position_m": [
+        0.6498193072583343,
+        0.1993981627275974,
+        0.21989224457978365
+      ],
+      "xy_error_mm": 0.6283772508165135,
+      "cube_center_z_m": 0.21989224457978365
+    }
+  ]
+}

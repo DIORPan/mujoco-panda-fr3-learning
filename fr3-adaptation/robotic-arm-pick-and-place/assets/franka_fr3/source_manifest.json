@@ -1,0 +1,449 @@
+{
+  "source_repository": "https://github.com/google-deepmind/mujoco_menagerie",
+  "source_commit": "cda5236f98383f6fbaa4820c6b18dba892cd087f",
+  "verified_date": "2026-10-25",
+  "verification": "Git blob SHA-1 matches pinned source; CRLF/LF normalization allowed for text files only.",
+  "files": [
+    {
+      "path": "franka_fr3/fr3.xml",
+      "size": 8843,
+      "git_blob_raw": "1462ab90cd7f1cad1eabbaaf782a99adf6784ca0",
+      "git_blob_lf": "1462ab90cd7f1cad1eabbaaf782a99adf6784ca0",
+      "sha256": "0d0e502d0c517a33217dac859fa84fbb74c7ab9b2f104c64c70a41dfa77e6d2f",
+      "source_git_blob": "1462ab90cd7f1cad1eabbaaf782a99adf6784ca0",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/LICENSE",
+      "size": 12927,
+      "git_blob_raw": "2b315a13af124c66d94f0fc2f47344d5d551979e",
+      "git_blob_lf": "2b315a13af124c66d94f0fc2f47344d5d551979e",
+      "sha256": "5e15554a918bf661583d7df7a1014177be4fed561532aaaee852dca06c71821a",
+      "source_git_blob": "2b315a13af124c66d94f0fc2f47344d5d551979e",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/README.md",
+      "size": 1767,
+      "git_blob_raw": "39ddd32363f6aecd7a0509fcc45ff11994d36c68",
+      "git_blob_lf": "39ddd32363f6aecd7a0509fcc45ff11994d36c68",
+      "sha256": "19c8ad2e78fb0d046bd9db23a64448a81f046d5b4fe0bdd0eeebeec6759fab41",
+      "source_git_blob": "39ddd32363f6aecd7a0509fcc45ff11994d36c68",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_0.obj",
+      "size": 1444419,
+      "git_blob_raw": "aee8b021a8efa46a27e8582e93696356417615e6",
+      "git_blob_lf": "aee8b021a8efa46a27e8582e93696356417615e6",
+      "sha256": "c830c25874a8a5736580cfce6f247fd145782d0b050fa424b00dd8194d8b2872",
+      "source_git_blob": "aee8b021a8efa46a27e8582e93696356417615e6",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_1.obj",
+      "size": 134554,
+      "git_blob_raw": "c84c8b01763c8f522735004081b0dc724a2b096c",
+      "git_blob_lf": "c84c8b01763c8f522735004081b0dc724a2b096c",
+      "sha256": "12f0affb9b540574f28ddf579413455a4728a093498457c9408539c31e2efcb8",
+      "source_git_blob": "c84c8b01763c8f522735004081b0dc724a2b096c",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_2.obj",
+      "size": 949120,
+      "git_blob_raw": "02938dc1f6aac87c590c48a01a9dba3459d0bda9",
+      "git_blob_lf": "02938dc1f6aac87c590c48a01a9dba3459d0bda9",
+      "sha256": "19a4d2fd6fef4fa09e109349bdaa315a00a00b17c814392902665bd92217f94c",
+      "source_git_blob": "02938dc1f6aac87c590c48a01a9dba3459d0bda9",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_3.obj",
+      "size": 2281227,
+      "git_blob_raw": "3615c5b783da4ea36eb77ff479c1d4463f1289d3",
+      "git_blob_lf": "3615c5b783da4ea36eb77ff479c1d4463f1289d3",
+      "sha256": "ed22c0de7adbc10618321715e047d1d9a36acca3260bc9497acd3ebda998e4e0",
+      "source_git_blob": "3615c5b783da4ea36eb77ff479c1d4463f1289d3",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_4.obj",
+      "size": 291361,
+      "git_blob_raw": "c6328c3dc14d7811815dd4092dfa093c84180895",
+      "git_blob_lf": "c6328c3dc14d7811815dd4092dfa093c84180895",
+      "sha256": "bc99c6e6b4752daa010ec2ac4ab38457eca0a1b75fcb4a60139b8200e186454d",
+      "source_git_blob": "c6328c3dc14d7811815dd4092dfa093c84180895",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_5.obj",
+      "size": 2729951,
+      "git_blob_raw": "ecfb87cac9f17339bb17b74814837eda7ddf88a6",
+      "git_blob_lf": "ecfb87cac9f17339bb17b74814837eda7ddf88a6",
+      "sha256": "dbccb46d8a3bfd602cd110a0bf69036e42661ec89c0074f18dc10dbdd2c0325e",
+      "source_git_blob": "ecfb87cac9f17339bb17b74814837eda7ddf88a6",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0_6.obj",
+      "size": 1448529,
+      "git_blob_raw": "50004baa205ffa9a1b42dd4b6731f2da60775300",
+      "git_blob_lf": "50004baa205ffa9a1b42dd4b6731f2da60775300",
+      "sha256": "9205596427463353249ab5acc7c7b4f5eb8be358527cd9e229b656b16f5bd1fe",
+      "source_git_blob": "50004baa205ffa9a1b42dd4b6731f2da60775300",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link1.obj",
+      "size": 862466,
+      "git_blob_raw": "b9622a397779d105daa2e7d3165a06e8740cc199",
+      "git_blob_lf": "b9622a397779d105daa2e7d3165a06e8740cc199",
+      "sha256": "a9e73987b774f3fb76ec640c2f6e172b128736363792f1697a13d7795f745663",
+      "source_git_blob": "b9622a397779d105daa2e7d3165a06e8740cc199",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link2.obj",
+      "size": 853861,
+      "git_blob_raw": "ffc0a86fcffb7c99eb9016ec0890b202ac96b403",
+      "git_blob_lf": "ffc0a86fcffb7c99eb9016ec0890b202ac96b403",
+      "sha256": "1818f1eed57552d006a3e9353a670a39c271ac67833274efcee2403db7e4fa92",
+      "source_git_blob": "ffc0a86fcffb7c99eb9016ec0890b202ac96b403",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link3_0.obj",
+      "size": 954393,
+      "git_blob_raw": "ac13bd7f06a6480a55c91cb7b4c8b11c391990e0",
+      "git_blob_lf": "ac13bd7f06a6480a55c91cb7b4c8b11c391990e0",
+      "sha256": "d15c6360be859d55ed1e0d5b08317c4c26d5b3a2a4743c04faf4cc07080f5c9a",
+      "source_git_blob": "ac13bd7f06a6480a55c91cb7b4c8b11c391990e0",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link3_1.obj",
+      "size": 2148256,
+      "git_blob_raw": "711088cee6008bcfee511c7228aa8e738ac6173b",
+      "git_blob_lf": "711088cee6008bcfee511c7228aa8e738ac6173b",
+      "sha256": "89c2c02bdb1c5175d42c5181b4dcc0bb282fab1c5a0c2f99183c156ad45c2f6d",
+      "source_git_blob": "711088cee6008bcfee511c7228aa8e738ac6173b",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link4_0.obj",
+      "size": 957444,
+      "git_blob_raw": "cb628535cba2af8ffd590d1aaec494d0ea94b4f4",
+      "git_blob_lf": "cb628535cba2af8ffd590d1aaec494d0ea94b4f4",
+      "sha256": "8da93d2b65258890be3dfaa39f3cef5acd3d85e7e4e515eb6eb7e1284c3af795",
+      "source_git_blob": "cb628535cba2af8ffd590d1aaec494d0ea94b4f4",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link4_1.obj",
+      "size": 2145586,
+      "git_blob_raw": "583e2c8523a279b499d3510f8f2fac9d8eab6c0d",
+      "git_blob_lf": "583e2c8523a279b499d3510f8f2fac9d8eab6c0d",
+      "sha256": "0428a185f74edb3a23c81d71adc9269c8b63f73805f9d210960a5d425fee060d",
+      "source_git_blob": "583e2c8523a279b499d3510f8f2fac9d8eab6c0d",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link5_0.obj",
+      "size": 1235806,
+      "git_blob_raw": "a170827cfb6973b7898b043402893da647407df3",
+      "git_blob_lf": "a170827cfb6973b7898b043402893da647407df3",
+      "sha256": "bcc32346b6558d8a1c42594b6988d4f6f68ece2e0a769c28b0242d5b398e1f86",
+      "source_git_blob": "a170827cfb6973b7898b043402893da647407df3",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link5_1.obj",
+      "size": 186395,
+      "git_blob_raw": "fac531425f4d706bd9ca3236ec49b76717b4a673",
+      "git_blob_lf": "fac531425f4d706bd9ca3236ec49b76717b4a673",
+      "sha256": "d2ef3af3be96ebb7c3f78cf3cedbdfb36b375db8dc32068c5dca613d9086e5e5",
+      "source_git_blob": "fac531425f4d706bd9ca3236ec49b76717b4a673",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link5_2.obj",
+      "size": 2847962,
+      "git_blob_raw": "76753c65cf83c260f9adddf330bfe43a0c1d8233",
+      "git_blob_lf": "76753c65cf83c260f9adddf330bfe43a0c1d8233",
+      "sha256": "a897831482eed642e5d441d1a1abf0ede89d37672f8168ce2cd40d620e25daca",
+      "source_git_blob": "76753c65cf83c260f9adddf330bfe43a0c1d8233",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_0.obj",
+      "size": 544,
+      "git_blob_raw": "2b78d10e4af6f6073bf64495d9403aa8691652d2",
+      "git_blob_lf": "2b78d10e4af6f6073bf64495d9403aa8691652d2",
+      "sha256": "f2a77f8890b3c24de62c6f23c2c63e59cb95b0e3986741d00ac12ec733156635",
+      "source_git_blob": "2b78d10e4af6f6073bf64495d9403aa8691652d2",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_1.obj",
+      "size": 15225,
+      "git_blob_raw": "cb36c33cab9842829175718f8ebf76237e7f437d",
+      "git_blob_lf": "cb36c33cab9842829175718f8ebf76237e7f437d",
+      "sha256": "4165ccedf27ec576c8fe3ec86702a43cbdacfb2a25328f6762721a92d22ca8fc",
+      "source_git_blob": "cb36c33cab9842829175718f8ebf76237e7f437d",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_2.obj",
+      "size": 2447199,
+      "git_blob_raw": "ca403cb497f65494f0e348723cd9c2a3f934f471",
+      "git_blob_lf": "ca403cb497f65494f0e348723cd9c2a3f934f471",
+      "sha256": "1111395c7a1c4a1c803e35969fb4cdd5a183a21292a0da5f0519f6d684083445",
+      "source_git_blob": "ca403cb497f65494f0e348723cd9c2a3f934f471",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_3.obj",
+      "size": 23993,
+      "git_blob_raw": "bfc57f6b70c406f9b6882f39d9cfeec90a5022e8",
+      "git_blob_lf": "bfc57f6b70c406f9b6882f39d9cfeec90a5022e8",
+      "sha256": "86fc49381273ccc0079b1f7ce5a77ce363e85ef4df5ebcf2b07c1ae6173043e6",
+      "source_git_blob": "bfc57f6b70c406f9b6882f39d9cfeec90a5022e8",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_4.obj",
+      "size": 1378,
+      "git_blob_raw": "be2d1cbff1daec44de450ec692e99ffbb5eb1a03",
+      "git_blob_lf": "be2d1cbff1daec44de450ec692e99ffbb5eb1a03",
+      "sha256": "ed3f2d2a05b7d7704f4d04f38b99ce59792a8ef79e2f989567a0319a9f029599",
+      "source_git_blob": "be2d1cbff1daec44de450ec692e99ffbb5eb1a03",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_5.obj",
+      "size": 345691,
+      "git_blob_raw": "e492de352da79511df5ddca51c12cce98935ad47",
+      "git_blob_lf": "e492de352da79511df5ddca51c12cce98935ad47",
+      "sha256": "435abeff7bded0c6e9af1e3f98857413fd3964a65c138efc9d99703d9dfffbbb",
+      "source_git_blob": "e492de352da79511df5ddca51c12cce98935ad47",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_6.obj",
+      "size": 3762367,
+      "git_blob_raw": "a4bd84f7bd06b6994d3b553a4996af5be481115e",
+      "git_blob_lf": "a4bd84f7bd06b6994d3b553a4996af5be481115e",
+      "sha256": "b76323550be892e32482f5dee5ca0631b080cf6543404495961834de19f89e71",
+      "source_git_blob": "a4bd84f7bd06b6994d3b553a4996af5be481115e",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6_7.obj",
+      "size": 13910,
+      "git_blob_raw": "197ab26138a720496b076f82980ce32d28a7259b",
+      "git_blob_lf": "197ab26138a720496b076f82980ce32d28a7259b",
+      "sha256": "5189566a36197a91792e8704f9dd0097e63a1141c5aca72427fb977d4389c72a",
+      "source_git_blob": "197ab26138a720496b076f82980ce32d28a7259b",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link7_0.obj",
+      "size": 887197,
+      "git_blob_raw": "8b480ddbf18288ceb7c520b768ff71caa400e8b6",
+      "git_blob_lf": "8b480ddbf18288ceb7c520b768ff71caa400e8b6",
+      "sha256": "bc0953056e78a063c0de7c81f7ba320b74f7957ee5e7da0786e678be64769ab2",
+      "source_git_blob": "8b480ddbf18288ceb7c520b768ff71caa400e8b6",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link7_1.obj",
+      "size": 933413,
+      "git_blob_raw": "0cefd0dfb61f54b1d3d0c1880db2c08b67cede1b",
+      "git_blob_lf": "0cefd0dfb61f54b1d3d0c1880db2c08b67cede1b",
+      "sha256": "bab975d59b724a0fac020d80c4483b77d29b9217485f0aae0b866a1b70b56fad",
+      "source_git_blob": "0cefd0dfb61f54b1d3d0c1880db2c08b67cede1b",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link7_2.obj",
+      "size": 2409912,
+      "git_blob_raw": "fb680593550a1c472a28a7f63d0ca45c5887d088",
+      "git_blob_lf": "fb680593550a1c472a28a7f63d0ca45c5887d088",
+      "sha256": "7f7b27bab891757731d78c0b717a1da3fc48cebb6db5d3cd37994d768ce9b509",
+      "source_git_blob": "fb680593550a1c472a28a7f63d0ca45c5887d088",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link7_3.obj",
+      "size": 1310980,
+      "git_blob_raw": "0af20cecb0dc981d9fa5bff4e4ec8ab48983feb1",
+      "git_blob_lf": "0af20cecb0dc981d9fa5bff4e4ec8ab48983feb1",
+      "sha256": "3ccfdcf6043602577da37969244a660ebd72bc4bd172b7fbeb542809b62dccff",
+      "source_git_blob": "0af20cecb0dc981d9fa5bff4e4ec8ab48983feb1",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link0.stl",
+      "size": 10084,
+      "git_blob_raw": "def070c7077c0ddb33bbe16cd6c75f19dd318734",
+      "git_blob_lf": "def070c7077c0ddb33bbe16cd6c75f19dd318734",
+      "sha256": "dfc6d94330de8ddb005b311bfdba9f3b8e1aa7c256b71592ee7ff32cb9a9a5aa",
+      "source_git_blob": "def070c7077c0ddb33bbe16cd6c75f19dd318734",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link1.stl",
+      "size": 15084,
+      "git_blob_raw": "426bcf2d7a04e067e01ab198d0ccfef63c6846e8",
+      "git_blob_lf": "426bcf2d7a04e067e01ab198d0ccfef63c6846e8",
+      "sha256": "e41a39a94108fcf56aacff603fc91ec80541f4c1af17b51a0de5617f5566e6d2",
+      "source_git_blob": "426bcf2d7a04e067e01ab198d0ccfef63c6846e8",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link2.stl",
+      "size": 15084,
+      "git_blob_raw": "b369f1599a3c1356611716621f998bd8b5a8863b",
+      "git_blob_lf": "b369f1599a3c1356611716621f998bd8b5a8863b",
+      "sha256": "370f7605a0fae3529db169ded50f52f171024aa792d4d773bc84197301f6a039",
+      "source_git_blob": "b369f1599a3c1356611716621f998bd8b5a8863b",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link3.stl",
+      "size": 15084,
+      "git_blob_raw": "25162eeedf286d1e27fdd4ba38950ae90678bb0f",
+      "git_blob_lf": "25162eeedf286d1e27fdd4ba38950ae90678bb0f",
+      "sha256": "0a8d638b9349c6c0eefc4e888636ac4838c4b27170f18a51699321118af709c1",
+      "source_git_blob": "25162eeedf286d1e27fdd4ba38950ae90678bb0f",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link4.stl",
+      "size": 15084,
+      "git_blob_raw": "76c8c33c3e1e6c184f8c3693b390892c25b179e3",
+      "git_blob_lf": "76c8c33c3e1e6c184f8c3693b390892c25b179e3",
+      "sha256": "0180ebb5772ec9840cb049750cffb29a9ddc90311752a16ea34757782ef9e48d",
+      "source_git_blob": "76c8c33c3e1e6c184f8c3693b390892c25b179e3",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link5.stl",
+      "size": 15084,
+      "git_blob_raw": "3006a0b9a695f020e1887128d805d15aaa7fd342",
+      "git_blob_lf": "3006a0b9a695f020e1887128d805d15aaa7fd342",
+      "sha256": "dd17e688c7870e722283525879643d53a74c0024d328b0e14b034b54c8b6c31a",
+      "source_git_blob": "3006a0b9a695f020e1887128d805d15aaa7fd342",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link6.stl",
+      "size": 10084,
+      "git_blob_raw": "2e9594a873f97e572ec68a4e0ab6d65f41f5007e",
+      "git_blob_lf": "2e9594a873f97e572ec68a4e0ab6d65f41f5007e",
+      "sha256": "20b768e99a0e0440b5754dcca108016434e57937cc356acd9c352ccd3cb27f77",
+      "source_git_blob": "2e9594a873f97e572ec68a4e0ab6d65f41f5007e",
+      "matches_source": true
+    },
+    {
+      "path": "franka_fr3/assets/link7.stl",
+      "size": 10084,
+      "git_blob_raw": "0532d057507637533d25f4b3ed451f213685a61d",
+      "git_blob_lf": "0532d057507637533d25f4b3ed451f213685a61d",
+      "sha256": "92ac6afcf7574c034d3170d8a68e95ac9048ab9d0dd5bbd8311b86e551b9ab1c",
+      "source_git_blob": "0532d057507637533d25f4b3ed451f213685a61d",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/hand.xml",
+      "size": 4661,
+      "git_blob_raw": "a7cfe4739e03ddad1a04c58141bbf81142b595b4",
+      "git_blob_lf": "b386048ef08f0ddb93a5f902efb09865be89af5f",
+      "sha256": "c9d8bc3ea6bfe6efb4335a24492757b911389fbf20964afd143d261e688c627a",
+      "source_git_blob": "b386048ef08f0ddb93a5f902efb09865be89af5f",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/LICENSE",
+      "size": 10349,
+      "git_blob_raw": "7cd40e552f41493c9a4ac5934ac471285e7ae871",
+      "git_blob_lf": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe",
+      "sha256": "6d1d968fb225eca367cb7f0b8831ab012a35d92b547e945e17ef8e7b05c3e5cc",
+      "source_git_blob": "d9a10c0d8e868ebf8da0b3dc95bb0be634c34bfe",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand.stl",
+      "size": 10084,
+      "git_blob_raw": "4e820902eba7b9d959a2e0cc8091f4b0f09ed77a",
+      "git_blob_lf": "4e820902eba7b9d959a2e0cc8091f4b0f09ed77a",
+      "sha256": "94493e94f30fe940f2c8ca2f155c3bbe67bbff406d3edf5e261670d2f0f6e2ed",
+      "source_git_blob": "4e820902eba7b9d959a2e0cc8091f4b0f09ed77a",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand_0.obj",
+      "size": 9355,
+      "git_blob_raw": "4c5befbb9f767be11455789bf61fce5272657f47",
+      "git_blob_lf": "d211d88e9235bcf0aef55944c0a4dd442e6043bc",
+      "sha256": "6108861e452533528ede1f96ac849b2b82464709241de9d060f7811542f22cb5",
+      "source_git_blob": "d211d88e9235bcf0aef55944c0a4dd442e6043bc",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand_1.obj",
+      "size": 125223,
+      "git_blob_raw": "be2177c76b5527c844fb3529198f50468fbc84fe",
+      "git_blob_lf": "88e32af1cf1e84c6c1a01506481630393b90b8dc",
+      "sha256": "20aefc64bec54c4435c488a841836f90c68f8d049c955878734fa8e58cbca303",
+      "source_git_blob": "88e32af1cf1e84c6c1a01506481630393b90b8dc",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand_2.obj",
+      "size": 612111,
+      "git_blob_raw": "dea29d967dc03156df610c228e9a28eedd39560d",
+      "git_blob_lf": "1611d55faf3a901e13e51e499c19d9fff438c7db",
+      "sha256": "0030f19e5401af70f3d3e2d495657122f5ad5b4ed80123fac54eb1de1a57e7aa",
+      "source_git_blob": "1611d55faf3a901e13e51e499c19d9fff438c7db",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand_3.obj",
+      "size": 926779,
+      "git_blob_raw": "d37e27a5d073ad27bf2ad04527755aa058c43632",
+      "git_blob_lf": "3fcd6f303523ad716ae56013a9b06acdd8b413d6",
+      "sha256": "45d8b5e2dd8538ababdf7e595e5b3a3c47c5275da0148281bafcbb33cf0292d8",
+      "source_git_blob": "3fcd6f303523ad716ae56013a9b06acdd8b413d6",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/hand_4.obj",
+      "size": 156224,
+      "git_blob_raw": "f65b6edca0f5e4ec725ec294825dafe7010d9114",
+      "git_blob_lf": "0b308459702bf47c8e1a17b60486a6f9c6aa77f2",
+      "sha256": "04b433d44ab6d0c35022ad20bc101eaa5817cf7eca4cc53995e16fd0f0bc2199",
+      "source_git_blob": "0b308459702bf47c8e1a17b60486a6f9c6aa77f2",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/finger_0.obj",
+      "size": 90360,
+      "git_blob_raw": "b1e9a2ec2abcd2936a74b814d0375532e549a059",
+      "git_blob_lf": "104cf631a225dad6a0bdc8f5cf31dc994c75216f",
+      "sha256": "07478de3ac3f20a03c6aaae6e1162241cd40c2626f869f8b6300214b84e39993",
+      "source_git_blob": "104cf631a225dad6a0bdc8f5cf31dc994c75216f",
+      "matches_source": true
+    },
+    {
+      "path": "franka_emika_panda/assets/finger_1.obj",
+      "size": 66487,
+      "git_blob_raw": "a274861b63def879910442766f80ec4441bf6981",
+      "git_blob_lf": "31364d4804285e0594878adf0972d543453caff1",
+      "sha256": "723674cdfa74e3c502d83d695e76db713679d0209899e5dfb0cb7fc99ca883c0",
+      "source_git_blob": "31364d4804285e0594878adf0972d543453caff1",
+      "matches_source": true
+    }
+  ]
+}

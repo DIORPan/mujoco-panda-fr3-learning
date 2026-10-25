@@ -1,0 +1,86 @@
+{
+  "requested_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "rounds": [
+    {
+      "seed": 0,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_0\\random_seed0_1792914317036688700.json"
+    },
+    {
+      "seed": 1,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_1\\random_seed1_1792914318469616300.json"
+    },
+    {
+      "seed": 2,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_2\\random_seed2_1792914319906111200.json"
+    },
+    {
+      "seed": 3,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_3\\random_seed3_1792914321348073500.json"
+    },
+    {
+      "seed": 4,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_4\\random_seed4_1792914322763223800.json"
+    },
+    {
+      "seed": 5,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_5\\random_seed5_1792914324173022500.json"
+    },
+    {
+      "seed": 6,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_6\\random_seed6_1792914325601021800.json"
+    },
+    {
+      "seed": 7,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_7\\random_seed7_1792914327027783300.json"
+    },
+    {
+      "seed": 8,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_8\\random_seed8_1792914328397537000.json"
+    },
+    {
+      "seed": 9,
+      "completed": true,
+      "passed": 3,
+      "failed_colors": [],
+      "report": "seed_9\\random_seed9_1792914329805398400.json"
+    }
+  ]
+}
